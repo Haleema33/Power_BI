@@ -18,7 +18,7 @@ This Power BI-inspired project is developed using **JavaFX** and **SceneBuilder*
 
 ## Screenshots
 ### Main Interface
-![Main Interface](https://1drv.ms/i/c/596b2ef02dc1640e/ESI4PA97MqlKmTRkZfxLbpsBTUv5AXsFA5k_4t6a7mm1tQ?e=QjZ2s2)
+![Main Interface](https://github.com/Haleema33/Power_BI/issues/1)
 
 ### Filtered Data View
 ![Filtered Data](./Screenshot%202025-02-13%20214403.png)
