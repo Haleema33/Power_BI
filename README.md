@@ -21,7 +21,7 @@ This Power BI-inspired project is developed using **JavaFX** and **SceneBuilder*
 ![Main Interface](https://github.com/user-attachments/assets/a1583f64-8a53-4ac0-b378-f5448421c6b4)
 
 ### Filtered Data View
-![Filtered Data](./Screenshot%202025-02-13%20214403.png)
+![Filtered Data](https://github.com/user-attachments/assets/187b239f-1627-439c-9203-7867560a928f)
 
 ## How to Run the Project
 1. Clone the repository or download the source code.
