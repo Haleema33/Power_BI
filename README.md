@@ -29,8 +29,8 @@ This Power BI-inspired project is developed using **JavaFX** and **SceneBuilder*
 3. Run the project using your preferred IDE (IntelliJ, Eclipse, or NetBeans).
 4. The application will fetch data from the URL and display it on the UI.
 
-##Video of how it will show the results:
-https://1drv.ms/v/c/596b2ef02dc1640e/EQRLRRgN9StCh5t0WUGZ6g8BYCOWSctLivy0me9Ee9a2lw?e=BCHiGL
+## Video of how it will show the results:
+![Video](https://1drv.ms/v/c/596b2ef02dc1640e/EQRLRRgN9StCh5t0WUGZ6g8BYCOWSctLivy0me9Ee9a2lw?e=BCHiGL)
 
 ## Future Enhancements
 - Add real-time data updates.
