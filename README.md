@@ -18,7 +18,7 @@ This Power BI-inspired project is developed using **JavaFX** and **SceneBuilder*
 
 ## Screenshots
 ### Main Interface
-![Main Interface](./Screenshot%202025-02-13%20214324.png)
+![Main Interface](C:\Users\HP\OneDrive\Documents\Pictures\Screenshots\Screenshot 2025-02-13 214324.png)
 
 ### Filtered Data View
 ![Filtered Data](./Screenshot%202025-02-13%20214403.png)
